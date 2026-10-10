@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "4096b0d30b43babb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9ee5764fb37981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d765f61745650a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "密码本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "密码本"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8e6306bdfeb3297",
+    "type": "split",
+    "children": [
+      {
+        "id": "c437ee784feeacd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183b6ca9c12af341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "30d77906c18f7dfc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4205ec8cf5df12ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d39133e606d2b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "970f22ed5bd23bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb183f1318e2fae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计量经济学/第一章/数据分类.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "7e79b0409e7bf23d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/随身英语  Which English accent is the oldest 哪一种英语口音历史最悠久？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e3548d49e3f4a109",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0a2577c8b7cec981",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "55c2f23029d36a78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/随身英语  Which English accent is the oldest 哪一种英语口音历史最悠久？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "fix-math:Current file": false
+    }
+  },
+  "active": "183b6ca9c12af341",
+  "lastOpenFiles": [
+    "English_Learning/单词本/单词本分类1.canvas",
+    "English_Learning/单词本/英国美国地图，习俗.md",
+    "English_Learning/Clippings/随身英语  Which English accent is the oldest 哪一种英语口音历史最悠久？.md",
+    "English_Learning/Clippings/How we talk about the weather  How climate change is affecting tropical storms.md",
+    "English_Learning/阅读源.md",
+    "English_Learning/文章",
+    "English_Learning/翻译+tts.md",
+    "English_Learning/单词本",
+    "English_Learning/网址.md",
+    "English_Learning/obsidian插件.md",
+    "English_Learning/Clippings",
+    "English_Learning",
+    "typescripe/视频地址.md",
+    "typescripe/变量类型声明.md",
+    "typescripe/ssh_learning",
+    "typescripe/基础语法/TS编译选项/（1）.md",
+    "typescripe/基础语法/TS编译选项/附件",
+    "typescripe/基础语法/TS编译选项",
+    "typescripe/基础语法/变量声明/TS编译选项/（1）.md",
+    "typescripe/基础语法/变量声明/TS编译选项/README.md",
+    "typescripe/基础语法/变量声明/变量类型声明.md",
+    "typescripe/基础语法/变量声明/TS编译选项/附件/README.md",
+    "typescripe/基础语法/变量声明/TS编译选项/附件",
+    "typescripe/基础语法/变量声明/TS编译选项/未命名.canvas",
+    "未命名",
+    "typescripe/基础语法/变量声明/TS编译选项",
+    "typescripe/基础语法/变量声明/基本类型.md",
+    "typescripe/项目/fingertip-translate/概述.md",
+    "typescripe/基础语法/视频地址.md",
+    "typescripe/npm包管理器.md",
+    "大学学习/课外学习/计算机/编程语言/网页设计三件套  html css javascript.md",
+    "大学学习/课外学习/计算机/编程语言/编程语言.md",
+    "大学学习/课外学习/计算机/编程语言/c语言.md",
+    "大学学习/课外学习/计算机/编程语言/shell编程.md",
+    "密码本.md",
+    "b站/免费工具.md",
+    "计量经济学/第一章/数据分类.md",
+    "英语学习/单词本/单词本分类1.canvas",
+    "大学学习/大学课程/计量经济学/assets/作业/file-20260906153456910.png",
+    "大学学习/大学课程/计量经济学/assets/作业/file-20260906153450681.png",
+    "大学学习/大学课程/计量经济学/assets/作业/file-20260906153410258.png",
+    "计算机基础/图灵完备/附件/Pasted image 20260928053259.png",
+    "计算机基础/图灵完备/附件/Pasted image 20260928053104.png",
+    "计算机基础/附件/Pasted image 20260928050348.png",
+    "计算机基础/附件/Pasted image 20260916182456.png",
+    "计算机基础/附件/Pasted image 20260916182334.png",
+    "计算机基础/附件/Pasted image 20260916182036.png",
+    "计算机基础/附件/Pasted image 20260916181937.png"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "autoPlayTTS": true,
+  "accent": "us",
+  "triggerMode": "ctrl",
+  "translationService": "bing",
+  "ttsService": "youdao",
+  "showPhonetic": true,
+  "phoneticMode": "both",
+  "showCategory": true
+}
