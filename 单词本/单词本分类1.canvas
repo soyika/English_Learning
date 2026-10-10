@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5ce4b30db7cafbce","type":"text","text":"\nserendipity\n*serendipitous, serendipitously*\n\n**n.** 意外发现珍奇事物的能力；机缘巧合\n\n**例句：** The discovery of penicillin was a fortunate serendipity.\n青霉素的发现是一次幸运的机缘巧合。\n","x":-800,"y":-260,"width":520,"height":260,"color":"6"},
+		{"id":"eabe2f170c4ae738","type":"text","text":"Which English accent is the oldest","x":455,"y":-880,"width":250,"height":60},
+		{"id":"a759b1ec208a0eb4","type":"text","text":"British accent\n英国口语\n\nBritish\n**adv.** 英国的\n\naccent\n**n.** 口音，重音，强调\n**adv.** 强调，突出，着重\n","x":15,"y":-640,"width":440,"height":260},
+		{"id":"ef327b3fa7acaeec","x":680,"y":-640,"width":367,"height":124,"type":"text","text":"singular\n**n.** 单数；单数形式\n**adj.** 单数的；单数形式的；非凡的；突出的\n\n常译为统一的"},
+		{"id":"ca18cde2f9ba21b5","x":680,"y":-460,"width":367,"height":120,"type":"text","text":"linguist\n*linguists*\n\n**n.** 通晓数国语言的人；语言学家\n"},
+		{"id":"e3410a24200c38bd","x":680,"y":-280,"width":367,"height":120,"type":"text","text":"estimate\n**v.** 估计；估算；估价\n**n.** 估价；（对大小、数量、成本等的）估计；估计的成本"},
+		{"id":"2ddd5eea643cea94","x":679,"y":-81,"width":368,"height":101,"type":"text","text":"regional\nadj. 地区的；区域的；地方的"},
+		{"id":"03882645f5be49d8","x":15,"y":-260,"width":440,"height":100,"type":"text","text":"distinct\nadj. 清晰的；清楚的；明白的；明显的"},
+		{"id":"cb04d471146273df","x":-16,"y":-46,"width":250,"height":50,"type":"text","text":"received pronunciation\n标准发音（被接受的发音）"},
+		{"id":"7745134dab27c7ab","x":680,"y":100,"width":400,"height":120,"type":"text","text":"prestige\nn. 声望；威望；威信\nadj. 令人敬仰的；受尊重的；重要的；名贵的\n\nsocial prestige 社会声望\n"},
+		{"id":"bfa0ed51461deca4","x":679,"y":300,"width":401,"height":60,"type":"text","text":"messier\nadj. 凌乱的；麻烦的"},
+		{"id":"f441bd4d30a8a4ba","x":480,"y":520,"width":400,"height":72,"type":"text","text":"messy\nadj. 凌乱的；难以应付的"},
+		{"id":"444e2e12b09a041b","x":1000,"y":-880,"width":514,"height":60,"type":"text","text":"inconsistent\nadj. 不一致；相矛盾；不符合（某套标准、思想等）；反复无常的"},
+		{"id":"e5ebba89e4c78e8b","x":2184,"y":-610,"width":376,"height":98,"type":"text","text":"influences\nv. 影响；感化；改变；运动\nn. 影响；势力；有权势的人；感应"},
+		{"id":"aa40170b9043cfef","x":1760,"y":-578,"width":367,"height":66,"type":"text","text":"geographically\nadv. 地理学上"}
+	],
+	"edges":[
+		{"id":"78307043442bfd08","fromNode":"eabe2f170c4ae738","fromSide":"bottom","toNode":"a759b1ec208a0eb4","toSide":"top"},
+		{"id":"6f1bd460d6845819","fromNode":"bfa0ed51461deca4","fromSide":"bottom","toNode":"f441bd4d30a8a4ba","toSide":"top"}
+	]
+}
