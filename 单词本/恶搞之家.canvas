@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"31bead37542a3a72","x":-235,"y":-252,"width":250,"height":60,"type":"text","text":"diarrhea\n腹泻"},
+		{"id":"e22b96f019415d4d","x":40,"y":-252,"width":250,"height":60,"type":"text","text":"learing\n好色的"},
+		{"id":"f602b293d4afc8f3","x":-313,"y":-567,"width":250,"height":60,"type":"text","text":"peter griffin\n"},
+		{"id":"0bbab83ae94284ea","x":40,"y":-380,"width":250,"height":60,"type":"text","text":"mild\n温和的"},
+		{"id":"9387739d546dd06b","x":40,"y":-140,"width":250,"height":60,"type":"text","text":"lick\n"},
+		{"id":"55a140673fdbfa89","x":-235,"y":-140,"width":250,"height":60,"type":"text","text":"psycho"},
+		{"id":"f4b2063082a2a64c","x":40,"y":-20,"width":250,"height":60,"type":"text","text":"attended\n被控制的"},
+		{"id":"ac0e3049ec628a4f","x":-302,"y":-35,"width":250,"height":60,"type":"text","text":"fire hose\n消防水管"},
+		{"id":"54ceb31dd496da19","x":-235,"y":60,"width":250,"height":60,"type":"text","text":"down to earth\n实在的人"},
+		{"id":"ce5f2f08cb830923","x":-248,"y":160,"width":250,"height":60,"type":"text","text":"celebrity\n名人"},
+		{"id":"684767808cdd23d1","x":-235,"y":260,"width":250,"height":60,"type":"text","text":"smoke a joint\n抽了根烟"},
+		{"id":"97e663bc98ad5498","x":-248,"y":380,"width":250,"height":60,"type":"text","text":"pickup truck\n皮卡货车"},
+		{"id":"4083f99c100028b2","x":-286,"y":474,"width":250,"height":60,"type":"text","text":"royalty\n税"},
+		{"id":"c8c7cb6a0412dd38","x":40,"y":290,"width":250,"height":60,"type":"text","text":"keep my stuff in stupid mansions"},
+		{"id":"6cf5c22e68330efb","x":-141,"y":288,"width":250,"height":60,"type":"text","text":"collage\ncrop tops\nwith his mouth shut"},
+		{"id":"e28f40d834b6d362","x":3,"y":399,"width":250,"height":60,"type":"text","text":"butt"},
+		{"id":"2bd57137888ce21d","x":-92,"y":498,"width":250,"height":60,"type":"text","text":"go in a hot tub\n泡澡"},
+		{"id":"d0862e059dd8a6a5","x":-248,"y":600,"width":250,"height":60,"type":"text","text":"iocane powder\n碘烷粉末"},
+		{"id":"d40b4c980a0582f4","x":-85,"y":695,"width":250,"height":60,"type":"text","text":"juddhurst\n编造的"},
+		{"id":"be018a5ca0a99fc2","x":-107,"y":775,"width":250,"height":60,"type":"text","text":"grease stuff deat guy"}
+	],
+	"edges":[]
+}
